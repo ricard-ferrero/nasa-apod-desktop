@@ -1,6 +1,6 @@
 # NASA APOD
 
-A dekstop application connected with a NASA's API named [APOD (Astronomy Picture of the Day).](https://apod.nasa.gov/apod/astropix.html)
+A dekstop application in Python connected with a NASA's API named [APOD (Astronomy Picture of the Day).](https://apod.nasa.gov/apod/astropix.html)
 
 Everyday is published an amazing photograph about the universe and our precious sky. This app connects directly with APOD and shows you his picture quickly without having to open the browser.
 
